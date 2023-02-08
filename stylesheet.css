@@ -81,17 +81,32 @@ body{
         display: block;
         background-color: hsl(0, 0%, 100%);
         border-radius: 20px;
-        height: 420px;
-        width: 290px;
+        height: 360px;
+        width: 210px;
         margin-top: 50px;
-        margin-left: 40px;
+        margin-left: 10px;
     }
     .attribution {
     
-        font-size: 11px;
-        text-align: center;
-        margin-top: 20px;
-        margin-left: 5px;
+        font-size: 8px;
+        margin-right: 140px;
+        margin-top: 85px;
     }
-   
+    .image{
+        height: 200px;
+        width: 190px;
+        margin: 10px;
+        border-radius: 10px; 
+    }
+    .firstparagraph{
+        margin-left: 20px;
+        font-size: 15px;
+    }
+    .secondpragraph{
+        font-size: 11px;
+        margin-left: 20px;
+    }
+    .p3{
+        margin-left: 55px;
+    }
 }
